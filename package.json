@@ -1,0 +1,24 @@
+{
+  "name": "toolopedia",
+  "version": "1.0.0",
+  "description": "Simplifying big codes for small tasks in a single word",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasunbairagi/toolopedia.git"
+  },
+  "keywords": [
+    "Collection",
+    "of",
+    "tools"
+  ],
+  "author": "prasunbairagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasunbairagi/toolopedia/issues"
+  },
+  "homepage": "https://github.com/prasunbairagi/toolopedia#readme"
+}
