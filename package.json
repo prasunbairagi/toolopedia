@@ -1,6 +1,6 @@
 {
   "name": "toolopedia",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simplifying big codes for small tasks in a single word",
   "main": "src/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "Collection",
     "of",
-    "tools"
+    "tools","general tools","string functions"
   ],
   "author": "prasunbairagi",
   "license": "ISC",
