@@ -28,9 +28,12 @@ Any suggestions !?, please help me to grow it by contributing to my [Github repo
 ## Tools Available
 | Methods | Description | Usage | Output |
 | --- | --- | --- | --- |
-| **`sortAStr()`** | Sort your string and get a string. | **sortAStr**( 'Hello' ) | _eHllo_ |
-| **`removeDupWordsFromAStr()`** | Remove duplicate words from a string. | **removeDupWordsFromAStr**( 'Hello can I use use tools' ) | _Hello can I use tools_ |
-| **`removeDupLettersFromAStr()`** | Remove duplicate letters from a string. | **removeDupLettersFromAStr**( 'Hello' ) | _Helo_ |
+| **`sortAStr()`** | Sort your string and get a string. | **sortAStr**( _'Hello'_ ) | _eHllo_ |
+| **`removeDupWordsFromAStr()`** | Remove duplicate words from a string. | **removeDupWordsFromAStr**( _'Hello can I use use tools'_ ) | _Hello can I use tools_ |
+| **`removeDupLettersFromAStr()`** | Remove duplicate letters from a string. | **removeDupLettersFromAStr**( _'Hello'_ ) | _Helo_ |
+| **`convertNewDateIntoDDMMYYYYOnlyWithSlash()`** | fetch date only from new Date() or 'yyyy-mm-ddThh:mm:ss.sssZ' and convert into DD/MM/YYYY | **convertNewDateIntoDDMMYYYYOnlyWithSlash**( _'2024-03-29T12:52:58.693Z'_ )  **convertNewDateIntoDDMMYYYYOnlyWithSlash**( _new Date()_ ) | _29/03/2024_  _29/03/2024_ |
+| **`convertNewDateIntoMMDDYYYYOnlyWithSlash()`** | fetch date only from new Date() or 'yyyy-mm-ddThh:mm:ss.sssZ' and convert into MM/DD/YYYY | **convertNewDateIntoMMDDYYYYOnlyWithSlash**( _'2024-03-29T12:52:58.693Z'_ )  **convertNewDateIntoMMDDYYYYOnlyWithSlash**( _new Date()_ ) | _03/29/2024_  _03/29/2024_ |
+| **`convertNewDateIntoYYYYMMDDOnlyWithSlash()`** | fetch date only from new Date() or 'yyyy-mm-ddThh:mm:ss.sssZ' and convert into YYYY/MM/DD | **convertNewDateIntoYYYYMMDDOnlyWithSlash**( _'2024-03-29T12:52:58.693Z'_ )  **convertNewDateIntoYYYYMMDDOnlyWithSlash**( _new Date()_ ) | _2024/03/29_  _2024/03/29_ |
 
 ## Contribution
 
