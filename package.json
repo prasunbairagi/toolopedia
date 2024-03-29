@@ -1,6 +1,6 @@
 {
   "name": "toolopedia",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simplifying big codes for small tasks in a single word",
   "main": "src/index.js",
   "scripts": {
